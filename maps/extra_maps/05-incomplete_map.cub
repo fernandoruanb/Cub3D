@@ -1,0 +1,10 @@
+NO ./assets/wall/brick-1l.xpm
+SO ./assets/wall/brick-2l.xpm
+EA ./assets/wall/brick-1d.xpm
+WE ./assets/wall/brick-2d.xpm
+
+F 220,100,0
+C 225,30,0
+
+111111111
+100000001

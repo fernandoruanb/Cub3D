@@ -1,0 +1,14 @@
+NO ./images/minimal.xpm
+
+SO ./images/minimal.xpm
+
+WE ./images/minimal.xpm
+
+EA ./images/minimal.xpm
+
+F 200,200,---
+C 200,200,200
+
+111111111111111111
+10W000000000000001
+101111111111111111

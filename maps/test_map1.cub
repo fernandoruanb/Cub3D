@@ -1,0 +1,14 @@
+		NO ./images/blockwall.xpm
+
+SO ./images/ruins.xpm
+
+WE ./images/brickWall.xpm
+
+EA ./images/wall1.xpm
+
+F 200,200,200
+C 200,200,200
+
+111111111111111111
+100000N00000000001
+101111111111111111

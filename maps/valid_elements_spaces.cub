@@ -1,0 +1,16 @@
+		NO ./images/block.xpm
+
+SO ./images/ruins.xpm
+
+WE ./images/ender64.xpm
+
+EA ./images/wall1.xpm
+
+F 	240,233,133
+C  225,0,0
+
+1111111
+1000001
+100E001
+1000001
+1111111

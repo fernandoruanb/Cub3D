@@ -1,0 +1,11 @@
+NO ./images/wall.xpm
+SO ./images/ender64.xpm
+WE ./images/blue.xpm
+EA ./images/white.xpm
+
+F 200,200,200
+C 200,200,200
+
+111111111111111111
+100000000000W00001
+111111111111111111
