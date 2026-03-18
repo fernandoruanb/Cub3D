@@ -93,6 +93,7 @@ it transforms a flat world into a first-person visual simulation.
 <html>
 	<img src="./assets/Cub3D.png" alt="Cub3D">
 </html>
+
 ## Map Validation
 
 One of the first lessons that becomes obvious in a game project is this:
